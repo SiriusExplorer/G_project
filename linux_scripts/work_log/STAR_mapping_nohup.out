@@ -1,0 +1,29 @@
+nohup: ignoring input
+STAR mapping GM10847_RNA_seq_R1......
+Mar 29 21:38:49 ..... started STAR run
+Mar 29 21:38:49 ..... loading genome
+Mar 29 21:39:07 ..... started mapping
+Mar 29 21:43:40 ..... started sorting BAM
+Mar 29 21:44:33 ..... finished successfully
+STAR mapping GM10847_RNA_seq_R1 finnish
+STAR mapping GM10847_RNA_seq_R2......
+Mar 29 21:44:37 ..... started STAR run
+Mar 29 21:44:37 ..... loading genome
+Mar 29 21:44:58 ..... started mapping
+Mar 29 21:48:31 ..... started sorting BAM
+Mar 29 21:49:19 ..... finished successfully
+STAR mapping GM10847_RNA_seq_R2 finnish
+STAR mapping GM12891_RNA_seq_R1......
+Mar 29 21:49:23 ..... started STAR run
+Mar 29 21:49:23 ..... loading genome
+Mar 29 21:49:46 ..... started mapping
+Mar 29 21:53:37 ..... started sorting BAM
+Mar 29 21:54:23 ..... finished successfully
+STAR mapping GM12891_RNA_seq_R1 finnish
+STAR mapping GM12891_RNA_seq_R2......
+Mar 29 21:54:27 ..... started STAR run
+Mar 29 21:54:27 ..... loading genome
+Mar 29 21:54:50 ..... started mapping
+Mar 29 21:57:55 ..... started sorting BAM
+Mar 29 21:58:33 ..... finished successfully
+STAR mapping GM12891_RNA_seq_R2 finnish

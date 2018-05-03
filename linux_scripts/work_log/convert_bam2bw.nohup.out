@@ -1,0 +1,263 @@
+nohup: ignoring input
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R1/Aligned.sortedByCoord.out.bam
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R1/Aligned.sortedByCoord.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R1/Aligned.sortedByCoord.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Finish converting
+
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R1/Aligned.toTranscriptome.out.bam
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R1/Aligned.toTranscriptome.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R1/Aligned.toTranscriptome.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Traceback (most recent call last):
+  File "/home/liuzhen/miniconda2/bin/bamCoverage", line 11, in <module>
+    main(args)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/bamCoverage.py", line 250, in main
+    format=args.outFileFormat, smoothLength=args.smoothLength)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 171, in run
+    bedGraphToBigWig(chrom_names_and_size, [x[3] for x in res], out_file_name)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 291, in bedGraphToBigWig
+    bw.addHeader(chromSizes, maxZooms=10)
+RuntimeError: Received an error while writing the bigWig header
+[bwClose] There was an error while finishing writing a bigWig file! The output is likely truncated.
+Finish converting
+
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R2/Aligned.sortedByCoord.out.bam
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R2/Aligned.sortedByCoord.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R2/Aligned.sortedByCoord.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Finish converting
+
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R2/Aligned.toTranscriptome.out.bam
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R2/Aligned.toTranscriptome.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/STAR_mapping/GM10847_RNA_seq_R2/Aligned.toTranscriptome.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Traceback (most recent call last):
+  File "/home/liuzhen/miniconda2/bin/bamCoverage", line 11, in <module>
+    main(args)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/bamCoverage.py", line 250, in main
+    format=args.outFileFormat, smoothLength=args.smoothLength)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 171, in run
+    bedGraphToBigWig(chrom_names_and_size, [x[3] for x in res], out_file_name)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 291, in bedGraphToBigWig
+    bw.addHeader(chromSizes, maxZooms=10)
+RuntimeError: Received an error while writing the bigWig header
+[bwClose] There was an error while finishing writing a bigWig file! The output is likely truncated.
+Finish converting
+
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R1/Aligned.sortedByCoord.out.bam
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R1/Aligned.sortedByCoord.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R1/Aligned.sortedByCoord.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Finish converting
+
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R1/Aligned.toTranscriptome.out.bam
+[bam_sort_core] merging from 1 files and 1 in-memory blocks...
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R1/Aligned.toTranscriptome.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R1/Aligned.toTranscriptome.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Traceback (most recent call last):
+  File "/home/liuzhen/miniconda2/bin/bamCoverage", line 11, in <module>
+    main(args)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/bamCoverage.py", line 250, in main
+    format=args.outFileFormat, smoothLength=args.smoothLength)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 171, in run
+    bedGraphToBigWig(chrom_names_and_size, [x[3] for x in res], out_file_name)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 291, in bedGraphToBigWig
+    bw.addHeader(chromSizes, maxZooms=10)
+RuntimeError: Received an error while writing the bigWig header
+[bwClose] There was an error while finishing writing a bigWig file! The output is likely truncated.
+Finish converting
+
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R2/Aligned.sortedByCoord.out.bam
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R2/Aligned.sortedByCoord.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R2/Aligned.sortedByCoord.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Finish converting
+
+Samtools sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R2/Aligned.toTranscriptome.out.bam
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R2/Aligned.toTranscriptome.out.sort.bam to bigwig file
+minFragmentLength: 0
+verbose: False
+out_file_for_raw_data: None
+numberOfSamples: None
+bedFile: None
+bamFilesList: ['/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/STAR_mapping/GM12891_RNA_seq_R2/Aligned.toTranscriptome.out.sort.bam']
+numberOfProcessors: 1
+samFlag_exclude: None
+save_data: False
+stepSize: 50
+smoothLength: None
+blackListFileName: None
+center_read: False
+ignoreDuplicates: False
+defaultFragmentLength: read length
+chrsToSkip: []
+region: None
+maxPairedFragmentLength: 1000
+samFlag_include: None
+binLength: 50
+maxFragmentLength: 0
+minMappingQuality: None
+zerosToNans: False
+Traceback (most recent call last):
+  File "/home/liuzhen/miniconda2/bin/bamCoverage", line 11, in <module>
+    main(args)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/bamCoverage.py", line 250, in main
+    format=args.outFileFormat, smoothLength=args.smoothLength)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 171, in run
+    bedGraphToBigWig(chrom_names_and_size, [x[3] for x in res], out_file_name)
+  File "/home/liuzhen/miniconda2/lib/python2.7/site-packages/deeptools/writeBedGraph.py", line 291, in bedGraphToBigWig
+    bw.addHeader(chromSizes, maxZooms=10)
+RuntimeError: Received an error while writing the bigWig header
+[bwClose] There was an error while finishing writing a bigWig file! The output is likely truncated.
+Finish converting
+

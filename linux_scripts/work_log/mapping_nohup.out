@@ -1,0 +1,107 @@
+nohup: ignoring input
+Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/adapter_quality_trimmed/GM10847_H3K4me1_R1 SRR998166......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/adapter_quality_trimmed/GM10847_H3K4me1_R1/SRR998166_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/adapter_quality_trimmed/GM10847_H3K4me1_R1/SRR998166_2_val_2.fq
+Bowtie mapping finish SRR998166
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/adapter_quality_trimmed/GM10847_H3K4me1_R2 SRR998167......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/adapter_quality_trimmed/GM10847_H3K4me1_R2/SRR998167_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/adapter_quality_trimmed/GM10847_H3K4me1_R2/SRR998167_2_val_2.fq
+Bowtie mapping finish SRR998167
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/adapter_quality_trimmed/GM10847_H3K4me3_R1 SRR998168......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/adapter_quality_trimmed/GM10847_H3K4me3_R1/SRR998168_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/adapter_quality_trimmed/GM10847_H3K4me3_R1/SRR998168_2_val_2.fq
+Bowtie mapping finish SRR998168
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/adapter_quality_trimmed/GM10847_H3K4me3_R2 SRR998169......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/adapter_quality_trimmed/GM10847_H3K4me3_R2/SRR998169_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/adapter_quality_trimmed/GM10847_H3K4me3_R2/SRR998169_2_val_2.fq
+Bowtie mapping finish SRR998169
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/adapter_quality_trimmed/GM10847_H3K27ac_R1 SRR998160......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/adapter_quality_trimmed/GM10847_H3K27ac_R1/SRR998160_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/adapter_quality_trimmed/GM10847_H3K27ac_R1/SRR998160_2_val_2.fq
+Bowtie mapping finish SRR998160
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/adapter_quality_trimmed/GM10847_H3K27ac_R2 SRR998161......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/adapter_quality_trimmed/GM10847_H3K27ac_R2/SRR998161_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/adapter_quality_trimmed/GM10847_H3K27ac_R2/SRR998161_2_val_2.fq
+Bowtie mapping finish SRR998161
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/Input/adapter_quality_trimmed/GM10847_Input_R1 SRR998170......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/Input/adapter_quality_trimmed/GM10847_Input_R1/SRR998170_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/Input/adapter_quality_trimmed/GM10847_Input_R1/SRR998170_2_val_2.fq
+Bowtie mapping finish SRR998170
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/adapter_quality_trimmed/GM10847_RNA_seq_R1 SRR998171......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/adapter_quality_trimmed/GM10847_RNA_seq_R1/SRR998171_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/adapter_quality_trimmed/GM10847_RNA_seq_R1/SRR998171_2_val_2.fq
+Bowtie mapping finish SRR998171
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/adapter_quality_trimmed/GM10847_RNA_seq_R2 SRR998172......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/adapter_quality_trimmed/GM10847_RNA_seq_R2/SRR998172_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM10847/RNA_seq/adapter_quality_trimmed/GM10847_RNA_seq_R2/SRR998172_2_val_2.fq
+Bowtie mapping finish SRR998172
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R1 SRR998223......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R1/SRR998223_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R1/SRR998223_2_val_2.fq
+Bowtie mapping finish SRR998223
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R2 SRR998224......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R2/SRR998224_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R2/SRR998224_2_val_2.fq
+Bowtie mapping finish SRR998224
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R3 SRR998225......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R3/SRR998225_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/adapter_quality_trimmed/GM12891_H3K27ac_R3/SRR998225_2_val_2.fq
+Bowtie mapping finish SRR998225
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/Input/adapter_quality_trimmed/GM12891_Input_R1 SRR998238......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/Input/adapter_quality_trimmed/GM12891_Input_R1/SRR998238_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/Input/adapter_quality_trimmed/GM12891_Input_R1/SRR998238_2_val_2.fq
+Bowtie mapping finish SRR998238
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/adapter_quality_trimmed/GM12891_RNA_seq_R1 SRR998239......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/adapter_quality_trimmed/GM12891_RNA_seq_R1/SRR998239_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/adapter_quality_trimmed/GM12891_RNA_seq_R1/SRR998239_2_val_2.fq
+Bowtie mapping finish SRR998239
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/adapter_quality_trimmed/GM12891_RNA_seq_R2 SRR998240......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/adapter_quality_trimmed/GM12891_RNA_seq_R2/SRR998240_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/RNA_seq/adapter_quality_trimmed/GM12891_RNA_seq_R2/SRR998240_2_val_2.fq
+Bowtie mapping finish SRR998240
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R1 SRR998232......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R1/SRR998232_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R1/SRR998232_2_val_2.fq
+Bowtie mapping finish SRR998232
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R2 SRR998233......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R2/SRR998233_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R2/SRR998233_2_val_2.fq
+Bowtie mapping finish SRR998233
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R3 SRR998234......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R3/SRR998234_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/adapter_quality_trimmed/GM12891_H3K4me1_R3/SRR998234_2_val_2.fq
+Bowtie mapping finish SRR998234
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R1 SRR998235......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R1/SRR998235_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R1/SRR998235_2_val_2.fq
+Bowtie mapping finish SRR998235
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R2 SRR998236......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R2/SRR998236_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R2/SRR998236_2_val_2.fq
+Bowtie mapping finish SRR998236
+.Bowtie mapping /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R3 SRR998237......
+The fq_file is:
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R3/SRR998237_1_val_1.fq
+/data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/adapter_quality_trimmed/GM12891_H3K4me3_R3/SRR998237_2_val_2.fq
+Bowtie mapping finish SRR998237
+.

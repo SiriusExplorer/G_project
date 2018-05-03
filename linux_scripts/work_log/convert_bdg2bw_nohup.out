@@ -1,0 +1,91 @@
+nohup: ignoring input
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R1/SRR998166_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R1/SRR998166_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R1/SRR998166_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R1/SRR998166_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R2/SRR998167_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R2/SRR998167_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R2/SRR998167_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me1/call_peak/GM10847_H3K4me1_R2/SRR998167_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R1/SRR998168_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R1/SRR998168_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R1/SRR998168_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R1/SRR998168_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R2/SRR998169_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R2/SRR998169_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R2/SRR998169_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K4me3/call_peak/GM10847_H3K4me3_R2/SRR998169_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R1/SRR998160_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R1/SRR998160_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R1/SRR998160_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R1/SRR998160_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R2/SRR998161_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R2/SRR998161_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R2/SRR998161_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM10847/H3K27ac/call_peak/GM10847_H3K27ac_R2/SRR998161_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R1/SRR998223_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R1/SRR998223_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R1/SRR998223_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R1/SRR998223_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R2/SRR998224_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R2/SRR998224_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R2/SRR998224_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R2/SRR998224_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R3/SRR998225_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R3/SRR998225_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R3/SRR998225_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K27ac/call_peak/GM12891_H3K27ac_R3/SRR998225_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R1/SRR998232_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R1/SRR998232_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R1/SRR998232_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R1/SRR998232_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R2/SRR998233_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R2/SRR998233_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R2/SRR998233_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R2/SRR998233_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R3/SRR998234_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R3/SRR998234_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R3/SRR998234_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me1/call_peak/GM12891_H3K4me1_R3/SRR998234_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R1/SRR998235_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R1/SRR998235_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R1/SRR998235_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R1/SRR998235_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R2/SRR998236_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R2/SRR998236_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R2/SRR998236_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R2/SRR998236_control_lambda.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R3/SRR998237_treat_pileup.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R3/SRR998237_treat_pileup.sort.bdg to bigwig file
+Finish converting
+Sorting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R3/SRR998237_control_lambda.bdg
+Converting /data/rsgeno1/liuzhen/new_Caucasian/GM12891/H3K4me3/call_peak/GM12891_H3K4me3_R3/SRR998237_control_lambda.sort.bdg to bigwig file
+Finish converting
